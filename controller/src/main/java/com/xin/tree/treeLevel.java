@@ -11,6 +11,5 @@ public class treeLevel {
     }
     private void printTree(){
         Queue queue = new ArrayDeque();
-        List<String> list = new ArrayList();
     }
 }
